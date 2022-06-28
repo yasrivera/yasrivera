@@ -13,7 +13,7 @@ I believe you can do the right thing'. (Undertale)
 
  ## 
  
-<p align="right">I'm Yasmin, but you can call me Yas. I love technology since I was a five years old kid playing with Clippy, even though it was just an intelligent user interface from Microsoft Office. I wasn't actually planning on getting into the game development world but after learned how to code in Phyton and Java, it was time to find what I was passionate about. I'm going to be honest: it was not movie's typical love at first sight when I first saw a game engine interface, but there was something there that really caught me. I love games and the complexity behind it just make them more special and intriguing. Learning what it takes to make a character looks and walks nice, or being able to understand why sometimes it will keep falling (like an infinite free fall) until you restart your game, is certainly magical.</p>
+<p align="right">I'm Yasmin, but you can call me Yas.</p>
 
 <div align="center">
   <h3>✨ Learning these ✨</h3>
