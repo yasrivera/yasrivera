@@ -1,0 +1,26 @@
+.portifolio .back a:hover {
+  text-shadow: 0rem 0.4rem 0.5rem rgba(0, 0, 0, 0.25);
+}
+.portifolio .projeto {
+  transition: transform 0.23s;
+}
+.portifolio .projeto:hover {
+  transform: scale(1.06);
+  transition-timing-function:ease;
+}
+
+.portifolio .projeto a{
+  transition: transform 0.23s;
+}
+.portifolio .projeto a:hover{
+  transform: scale(1.21);
+  transition-timing-function:ease;
+}
+
+.portifolio .container .pagination button{
+  transition: transform 0.23s;
+}
+.portifolio .container .pagination button:hover{
+  transform: scale(1.06);
+  transition-timing-function:ease;
+}

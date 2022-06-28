@@ -1,0 +1,231 @@
+:root {
+  --primary-color: hsl(170, 100%, 26%);
+  --headline: hsl(210, 11%, 15%);
+  --paragraph: hsl(210, 9%, 31%);
+
+  --brand-beige: hsl(39, 100%, 97%);
+  --brand-light: hsl(148, 23%, 89%);
+
+  --backgound: hsla(192, 15%, 94%, 1);
+  --rosa: #c2185b;
+  --fonte-roxo: hsl(262, 47%, 55%);
+  font-size: 62.5%;
+
+  --nav-height: 7.2rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+  background-color: var(--backgound);
+  font-family: 'Roboto';
+  font-size: 1.6rem;
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline: inherit;
+}
+
+.resume {
+  width: 100%;
+  height: 100%;
+}
+
+.resume .back {
+  display: block;
+  position: relative;
+  width: 14.7rem;
+  height: 1.9rem;
+  top: 4rem;
+  left: 4rem;
+  gap: 0.4rem;
+}
+
+.resume .back a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: black;
+  text-decoration: none;
+  padding: 0.1rem;
+}
+
+.resume .card {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2.3rem;
+}
+
+.resume .card .seccao {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.resume .card .seccao .titulo {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 3.2rem;
+  font-weight: 600;
+  padding-inline: auto;
+  margin-bottom: 2rem;
+}
+
+.resume .card .seccao .conteudo-educacao,
+.resume .card .seccao .conteudo-experiencia {
+  text-align: center;
+  display: none;
+  gap: 2.6rem;
+}
+
+.resume .card .seccao .conteudo-educacao .texto-educacao,
+.resume .card .seccao .conteudo-experiencia .texto-experiencia {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  background-color: white;
+  border-radius: 2rem;
+  padding: 2rem;
+}
+
+@media screen and (max-width: 600px){
+  .resume .card .seccao .conteudo-educacao .texto-educacao,
+  .resume .card .seccao .conteudo-experiencia .texto-experiencia {
+    width: 64vw;
+    height: 100%;
+  }
+}
+
+.resume .card .seccao .conteudo-educacao .texto-educacao .pagina-experiencia,
+.resume .card .seccao .conteudo-educacao .texto-educacao .pagina-educacao{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.resume .card .seccao .conteudo-educacao .texto-educacao .pagina-educacao h1,
+.resume .card .seccao .conteudo-experiencia .texto-experiencia h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 2.4rem;
+  margin-bottom: 1.6rem;
+  margin-inline: auto;
+  padding-inline: auto;
+}
+
+@media screen and (max-width: 600px){
+  .resume .card .seccao .conteudo-educacao .texto-educacao .pagina-educacao h1,
+  .resume .card .seccao .conteudo-experiencia .texto-experiencia h1 {
+    /* font-size: 2.65vmax; */
+    max-width: 55vw;
+  }
+}
+
+.resume .card .seccao .conteudo-educacao .texto-educacao .pagina-educacao h2,
+.resume .card .seccao .conteudo-experiencia .texto-experiencia h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  font-style: italic;
+  margin-bottom: 1.6rem;
+  margin-inline: auto;
+  padding-inline: auto;
+}
+
+@media screen and (max-width: 600px){
+  .resume .card .seccao .conteudo-educacao .texto-educacao .pagina-educacao h2,
+  .resume .card .seccao .conteudo-experiencia .texto-experiencia h2 {
+    max-width: 55vw;
+  }
+}
+
+.resume .card .seccao .conteudo-experiencia p,
+.resume .card .seccao .conteudo-educacao p{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  width: 40rem;
+}
+
+@media screen and (max-width: 600px){
+  .resume .card .seccao .conteudo-experiencia p,
+  .resume .card .seccao .conteudo-educacao p {
+    font-size: 1.58vmax;
+    max-width: 55vw;
+  }
+}
+
+.resume .card .seccao .conteudo-soft-skills,
+.resume .card .seccao .conteudo-hard-skills{
+  background-color: white;
+  border-radius: 2rem;
+  padding: 2rem;
+  display: none;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 3rem;
+}
+
+@media screen and (max-width: 600px){
+  .resume .card .seccao .conteudo-soft-skills,
+  .resume .card .seccao .conteudo-hard-skills {
+    width: 60%;
+    height: 100%;
+  }
+}
+
+.resume .card .seccao .conteudo-skill h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 2.4rem;
+  padding-inline: auto;
+  margin-bottom: 1.4rem;
+}
+
+.resume .card .seccao .conteudo-soft-skills h2,
+.resume .card .seccao .conteudo-hard-skills h2{
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2,4rem;
+  line-height: 2,8rem;
+  text-align: center;
+  
+}
+
+.resume .card .seccao .conteudo-experiencia .texto-experiencia .pagina-experiencia,
+.resume .card .seccao .conteudo-educacao .texto-educacao .pagina-educacao{
+  display: none;
+}
+
+.resume .card .seccao .conteudo-experiencia .texto-experiencia .pagina-experiencia:nth-child(2),
+.resume .card .seccao .conteudo-educacao .texto-educacao .pagina-educacao:nth-child(1){
+  display: block;
+}
