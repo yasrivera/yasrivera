@@ -192,3 +192,11 @@ button {
 .portifolio .container .card .projeto:nth-child(3){
   display: flex;
 }
+
+.portifolio .container .card .projeto .links {
+  display: flex;
+  bottom: 1.6rem;
+  align-items: center;
+  justify-content: center;
+  gap: 2.3rem;
+}

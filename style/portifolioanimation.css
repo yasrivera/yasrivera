@@ -17,10 +17,10 @@
   transition-timing-function:ease;
 }
 
-.portifolio .container .pagination button{
+.portifolio .container button{
   transition: transform 0.23s;
 }
-.portifolio .container .pagination button:hover{
+.portifolio .container button:hover{
   transform: scale(1.06);
   transition-timing-function:ease;
 }
