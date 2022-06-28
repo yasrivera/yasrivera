@@ -16,7 +16,7 @@ btn_educacao.addEventListener('click', function () {
     back_button.style.display = 'block'
   } else {
     conteudo_educacao.style.display = 'flex'
-    back_button.style.display = 'block'
+    back_button.style.display = 'none'
   }
   conteudo_exeriencia.style.display = 'none'
   conteudo_soft_skills.style.display = 'none'
@@ -29,7 +29,7 @@ btn_experiencia.addEventListener('click', function () {
     back_button.style.display = 'block'
   } else {
     conteudo_exeriencia.style.display = 'flex'
-    back_button.style.display = 'block'
+    back_button.style.display = 'none'
   }
   conteudo_educacao.style.display = 'none'
   conteudo_soft_skills.style.display = 'none'
