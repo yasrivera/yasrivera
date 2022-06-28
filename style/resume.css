@@ -229,3 +229,13 @@ button {
 .resume .card .seccao .conteudo-educacao .texto-educacao .pagina-educacao:nth-child(1){
   display: block;
 }
+
+.resume .card .foot {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: black;
+  text-decoration: none;
+  padding: 0.1rem;
+  text-align: center;
+}
