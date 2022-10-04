@@ -25,11 +25,6 @@ I believe you can do the right thing'. (Undertale)
 
 ## 
 
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=yasrivera&show_icons=true&theme=dark&hide_title=true&bg_color=0D1117&icon_color=B67EEB&hide_border=true&count_private=true&include_all_commits=true"/>
-  <!--<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasrivera&show_icons=true&theme=dark&bg_color=0D1117&icon_color=B67EEB&hide_border=true&layout=compact"/>-->
-</div>
-
 #### How to find me?
 <div align="center">
   <a href="https://instagram.com/yasrvie" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
