@@ -13,14 +13,18 @@ I believe you can do the right thing'. (Undertale)
 
  ## 
  
-<p align="right">I'm Yasmin, but you can call me Yas.</p>
+<p>I'm Yasmin, but you can call me Yas.</p>
+<p>I'm a Computing Systems student at UFF (Rio de Janeiro, Brazil) and starting a software development career. My first experience was in game development, where I worked at a brazilian mobile game studio as part of the Technical Art team. Our job was to be able to implement both code and 3D art in our game through Unity engine. Then, I got to my second internship where I learned about RPA processes, VBA and LINQ. Also, created some automation processes in UiPath.</p>
+<p>Right now, my focus is learning JavaScript, Clojure, functional programming and about cloud services since I'm starting an internship at a back-end company's team soon.</p>
 
 <div align="center">
-  <h3>✨ Learning these ✨</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" height="50px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px" height="50px" style="background-color:GhostWhite;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px"/>
+  <h4>Learning these</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45px" height="45px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45px" height="45px" style="background-color:GhostWhite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px" height="45px"/>
 </div>
 
 ## 
