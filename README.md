@@ -1,21 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
-~~~html
-Hey, how are you? 👋🏼
-No need to confirm you're not a robot,
-they're welcome here too.
-After all, 
-'You have something called determination. 
-So as long as you hold on, 
-so as long as you do what's in your heart, 
-I believe you can do the right thing'. (Undertale)
-~~~ 
-
- ## 
- 
 <p>I'm Yasmin, but you can call me Yas.</p>
 <p>I'm a Computing Systems student at UFF (Rio de Janeiro, Brazil) and starting a software development career. My first experience was in game development, where I worked at a brazilian mobile game studio as part of the Technical Art team. Our job was to be able to implement both code and 3D art in our game through Unity engine. Then, I got to my second internship where I learned about RPA processes, VBA and LINQ. Also, created some automation processes in UiPath.</p>
-<p>Right now, my focus is learning JavaScript, Clojure, functional programming and about cloud services since I'm starting an internship at a back-end company's team soon.</p>
+<p>Right now, my focus is learning JavaScript, Clojure, functional programming and about cloud services.</p>
 
 <div align="center">
   <h4>Learning these</h4>
