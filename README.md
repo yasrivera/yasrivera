@@ -6,10 +6,10 @@
 <br /> 
 
 <div align="center" style="display: grid;"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasrivera&layout=compact&theme=omni&bg_color=00000000" height="193px">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yasrivera&count_private=true&show_icons=true&theme=omni&bg_color=00000000">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasrivera&layout=compact&theme=omni&bg_color=00000000" width="30%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yasrivera&count_private=true&show_icons=true&theme=omni&bg_color=00000000" width="40%">
 </div>
-
+  
 <div align="center">
   <h4>Currently learning these tools</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt= "Docker" width="45px" height="45px"/>
@@ -19,7 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt= "Unity" width="45px" height="45px"/>
 </div>
 
-<br /> 
+<br /><br /> 
+
 
 ## 
 
