@@ -6,7 +6,6 @@
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasrivera&layout=compact&theme=omni&bg_color=00000000">
-<img src="https://github-readme-stats.vercel.app/api?username=yasrivera&count_private=true&show_icons=true&theme=omni&bg_color=00000000">
 
   
 <div>
