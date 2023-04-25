@@ -5,7 +5,7 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasrivera&layout=compact&theme=omni&bg_color=00000000">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasrivera&layout=compact&theme=omni&bg_color=00000000">
 
   
 <div>
