@@ -27,6 +27,7 @@ Hey, Yas here!
 </div>
   <h6 align="right">(GIPHY from <a href="https://www.instagram.com/luigisalas_/" target="_blank">Luigi Salas</a>)</h6>
 </div>
+</br>
 
 #
 
