@@ -5,9 +5,8 @@ Hey, Yas here!
 📍 Rio de Janeiro, Brazil
 💖 Tech and games enthusiast; love travelling, pets and pixel art
 ```
-
+</br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hyYzZ6d3RsYjlzMXNhZDI2eGV3eXEzYzQ5OWRmODRwcHYxN2Y1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" align="left" width=200px height=240px/>
-
 
 <div align="right">
   <h3>Tech Stack</h3>
