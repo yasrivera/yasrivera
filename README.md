@@ -28,11 +28,3 @@ Hey, Yas here!
 </div>
 </br>
 
-#
-
-<picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=yasrivera&theme=github-dark&hide_border=true&custom_title=Contributions%20Graph&point=FFFFFF" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=yasrivera&theme=github-light&hide_border=true" media="(prefers-color-scheme: light)"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasrivera&theme=github-dark"/>
-  </picture>
-
