@@ -20,11 +20,12 @@ Hey, Yas here!
   <img src="https://img.shields.io/badge/Docker-C30E59?style=flat-square&logo=Docker&logoColor=FFFFFF&link=https://www.docker.com/" alt="Docker"/>
   <h3>How to find me?</h3>
   <a href="https://www.linkedin.com/in/yasrivera/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-C30E59?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yasrvie" target="_blank"><img src="https://img.shields.io/badge/Instagram-C30E59?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/yasrivera_" target="_blank"><img src="https://img.shields.io/badge/Instagram-C30E59?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/yasrivera" target="_blank"><img src="https://img.shields.io/badge/Telegram-C30E59?style=flat-square&logo=telegram&logoColor=white"/></a>
   <a href="https://twitter.com/yasrvie" target="_blank"><img src="https://img.shields.io/badge/Twitter-C30E59?style=flat-square&logo=twitter&logoColor=white"/></a>
 </div>
   <h6 align="right">(GIPHY from <a href="https://www.instagram.com/luigisalas_/" target="_blank">Luigi Salas</a>)</h6>
 </div>
 </br>
+
 
